@@ -20,4 +20,4 @@
   with_items:
     - smb
     - nmb
-  when: ansible_connection != 'docker'
+# when: ansible_connection != 'docker'
