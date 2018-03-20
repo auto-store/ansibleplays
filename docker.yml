@@ -1,5 +1,5 @@
 ---
 
-- hosts: node1
+- hosts: 10.67.8.233
   roles:
      - basecomponent.docker 
