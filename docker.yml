@@ -1,5 +1,5 @@
 ---
 
-- hosts: centos
+- hosts: Centos
   roles:
      - basecomponent.docker 
