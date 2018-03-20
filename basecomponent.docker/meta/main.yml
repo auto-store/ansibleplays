@@ -1,0 +1,26 @@
+---
+galaxy_info:
+  author: "Shawn Ma"
+  description: Docker
+  company: ThoughtWorks, Inc.
+  license: Apache
+  min_ansible_version: 2.0
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+    - name: Debian
+      versions:
+       - stretch
+    - name: EL
+      versions:
+       - 7
+    - name: opensuse
+      versions:
+       - 12.3
+  galaxy_tags:
+    - virtualization
+    - cloud
+    - docker
+    - containers
+dependencies: []
